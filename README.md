@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Guisep69, a 27 years old Junior Web Programmer and Analyst. I'm recently graduated as a System's Engineer.
+- 👀 I’m interested in discover and learn all about the perks of web desing and programming, specially getting to know stuff like Tools, Frameworks, API's 
+- and how to use them efficiently.
+- 🌱 I’m currently learning about Front End development, since most of my short experience have been on Back End and Database management.
+- 📫 How to reach me: Joselerd69@gmail.com as if you wish to ask anything or could offer any good course or documentation about it.
